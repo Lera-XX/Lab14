@@ -4,7 +4,7 @@
   font-weight: 400;
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #ffffff;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -32,7 +32,7 @@ h1 {
 }
 
 .resume {
-  background-color: #ffffff;
+  background-color: #6D007B;
   color: #213547;
   padding: 2rem;
   border-radius: 8px;
